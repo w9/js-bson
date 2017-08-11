@@ -1,5 +1,5 @@
 {
-  "name": "bson",
+  "name": "w9-bson",
   "description": "A bson parser for node.js and the browser",
   "keywords": [
     "mongodb",
@@ -12,7 +12,7 @@
     "browser_build",
     "bower.json"
   ],
-  "version": "1.0.4",
+  "version": "1.0.4-1",
   "author": "Christian Amor Kvalheim <christkv@gmail.com>",
   "contributors": [],
   "repository": "mongodb/js-bson",
